@@ -6,7 +6,7 @@ import os
 import json
 from bs4 import BeautifulSoup
 
-url = "http://5sing.kugou.com/1103357/fc/%s.html"
+url = "http://5sing.kugou.com/XXXX/fc/%s.html"
 
 FIRSTPAGE = 1
 LASTPAGE = 13
